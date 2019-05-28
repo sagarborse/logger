@@ -1,4 +1,3 @@
-def joke():
-    return (u'Wenn ist das Nunst\u00fcck git und Slotermeyer? Ja! ... '
-            u'Beiherhund das Oder die Flipperwaldt gersput.')
-~
+from .logger  import Logger
+
+__version__ = "1.0.0"

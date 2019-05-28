@@ -1,0 +1,14 @@
+Metadata-Version: 1.2
+Name: logger
+Version: 1.0.0
+Summary: Python logging made (stupidly) simple
+Home-page: https://github.com/sagarborse/logger
+Author: Delgan
+Author-email: sagarborse90@gmail.com
+License: MIT license
+Download-URL: https://github.com/sagarborse/logger/archive/1.0.0.tar.gz
+Description: Test pakage
+        
+Keywords: logging,logger,log,parser
+Platform: UNKNOWN
+Requires-Python: >=3.5
