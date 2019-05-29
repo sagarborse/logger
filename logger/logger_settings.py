@@ -1,5 +1,6 @@
 import structlog
 
+print("hello")
 
 LOGGING = {
     "version": 1,
