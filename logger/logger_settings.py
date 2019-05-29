@@ -44,6 +44,11 @@ LOGGING = {
             "handlers": ["console", "flat_line_file", "json_file"],
             "level": "INFO",
         },
+        'django.request': {
+             'handlers': ['flat_line_file'],
+             'level': 'DEBUG',
+             'propagate': True,
+        },
     }
 }
 
