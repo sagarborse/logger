@@ -26,7 +26,8 @@ setup(
     keywords=["logging", "logger", "log", "parser"],
     license="MIT license",
     install_requires=[
-        "django-structlog==1.2.3"
+        "django-structlog==1.2.3",
+        "colorama"
     ],
     python_requires=">=3.5",
 )
